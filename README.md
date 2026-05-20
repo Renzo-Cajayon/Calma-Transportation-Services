@@ -1,1 +1,1 @@
-The purpose of this capstone project is to create a web based car rental system that makes booking and managing rentals easier and more convinient for users. The system aims to improve efficience and reduce manual errors for both customers and staff.
+The purpose of this capstone project is to create a web based car rental system that makes booking and managing rentals easier and more convinient for users. The system aims to improve efficiency and reduce manual errors for both customers and staff.
